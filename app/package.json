@@ -1,0 +1,14 @@
+{
+  "name": "robo-rdp",
+  "version": "1.0.0",
+  "description": "Robo pegar informações no chat das rdp's diarias e criar um meeting com elas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bruno.ramalho@valemobi.com.br",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.11.0"
+  }
+}
